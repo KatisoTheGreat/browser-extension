@@ -1,0 +1,2 @@
+Api key: h7uPpnA8HALR16mrVkgQ1SniUmzDeaqk
+Region: "ZA":{"zoneName":"South Africa"}
